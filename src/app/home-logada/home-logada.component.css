@@ -1,0 +1,55 @@
+@import url('https://fonts.googleapis.com/css?family=Crete+Round|Poppins');
+.wrapper-content {
+width: 100vw;
+height: 90vh;
+top: 10px;
+}
+.box-tile {
+width: 100vw;
+height: 100px;
+top: 20%;
+left: 10%;
+position: absolute;
+padding: 10px;
+}
+
+.typing-element {
+    position: relative;
+    z-index: 2!important;
+}
+.wrapper-content h1 {
+font-size: 60pt;
+color: #fff;
+text-shadow: 2px 2px #333;
+font-family: 'Crete Round', serif !important;
+}
+.tag {
+position: relative;
+font-size: 40px;
+color: chocolate;
+font-weight: bold;
+}
+.bg_img{
+    top: 16%!important;
+    position: absolute;
+    width: 100%;
+right: 0;
+bottom: 0;
+min-width: 100%;
+min-height: 100%;
+width: auto;
+height: auto;
+background: url('/assets/images/bg_banking.png?raw=true') no-repeat;
+background-size: cover;
+}
+.btn-home-cadastro-clientes {
+    position: absolute !important;
+    top: 390px;
+    padding: 10px;
+    font-size: 25px;
+    width: 40%;
+    background: #000;
+    color: #fff;
+    border: 2px solid;
+    z-index: 999!important;
+}

@@ -1,0 +1,11 @@
+.box-cadastro {
+    margin: 30px;
+    padding: 150px;
+}
+.msg-error {
+    color: darkred;
+    text-align: center;
+}
+.buttons-align {
+    justify-content: center;
+}

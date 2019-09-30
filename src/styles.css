@@ -1,0 +1,5 @@
+/* style file: material */
+@import "~@angular/material/prebuilt-themes/indigo-pink.css";
+
+/*style file: bootstrap*/
+@import "~bootstrap/dist/css/bootstrap.css";
